@@ -1,13 +1,13 @@
 name = "Villager Transportation"
-filename = "villager-transportation-1.0.jar"
+filename = "villager-transportation-1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vLUPqRLH/versions/NJIAGCmX/villager-transportation-1.0.jar"
+url = "https://cdn.modrinth.com/data/vLUPqRLH/versions/bcmtgsIt/villager-transportation-1.2.jar"
 hash-format = "sha1"
-hash = "b67fce9b4b8be7b681ff4016b764fc8c93df8820"
+hash = "cbb8a076025303abe4d2c56f4788b112c1cb758a"
 
 [update]
 [update.modrinth]
 mod-id = "vLUPqRLH"
-version = "NJIAGCmX"
+version = "bcmtgsIt"
