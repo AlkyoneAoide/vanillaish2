@@ -1,0 +1,13 @@
+name = "Rainy Harvest"
+filename = "rainy-harvest-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "477b0f062c551fa22629db4aa79727f137c25b00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4586226
+project-id = 874226

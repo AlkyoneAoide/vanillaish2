@@ -1,0 +1,13 @@
+name = "Disable Enderman Picking Up Blocks"
+filename = "disable-enderman-picking-up-blocks-main-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ec6K5FYS/versions/fZSoEtFW/disable-enderman-picking-up-blocks-main-1.0.jar"
+hash-format = "sha1"
+hash = "1b4296147da3c974e514b5c43bb5f9bcfa8890a0"
+
+[update]
+[update.modrinth]
+mod-id = "Ec6K5FYS"
+version = "fZSoEtFW"

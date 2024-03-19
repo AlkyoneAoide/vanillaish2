@@ -1,0 +1,14 @@
+name = "Vanillaish2"
+author = "Shammrockss & AlkyoneAoide"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f96fd8fd0234167596da60a1c06132c71d88d73d709b7742f2bbd4b97f45333a"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.1"
+unsup = "0.2.0"

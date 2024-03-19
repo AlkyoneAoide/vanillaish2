@@ -1,0 +1,32 @@
+[flavor_groups.give_me_everything]
+name = "Give Me Everything!"
+description = "Include all optional mods in your Vanillaish2 installation."
+side = "server"
+choices = ["give_me_everything_on","give_me_everything_off"]
+
+[flavor_groups.emi]
+name = "EMI"
+description = "A featureful and accessible item and recipe viewer."
+side = "client"
+choices = ["emi_on","emi_off"]
+
+[flavor_groups.tweakeroo]
+name = "Tweakeroo"
+description = "Adds toggleable game tweaks such as flexible/fast block placement and freecam."
+side = "client"
+choices = ["tweakeroo_on","tweakeroo_off"]
+
+[flavor_groups.wthit]
+name = "WTHIT"
+description = "Adds an ingame tooltip with information about what block (or fluid) the player is looking at."
+side = "client"
+choices = ["wthit_on","wthit_off"]
+
+[metafile.emi]
+flavors = ["emi_on", "give_me_everything_on"]
+
+[metafile.tweakeroo]
+flavors = ["tweakeroo_on", "give_me_everything_on"]
+
+[metafile.wthit]
+flavors = ["wthit_on", "give_me_everything_on"]
