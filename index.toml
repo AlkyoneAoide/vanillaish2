@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
 
 [[files]]
@@ -292,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
